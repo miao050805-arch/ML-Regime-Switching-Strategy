@@ -23,5 +23,16 @@ I focused on moving beyond theoretical backtesting to address real-world trading
 * **Library**: Scikit-Learn (Random Forest), Pandas, Numpy, Matplotlib，Yfinance
 * **Metrics**: Sharpe Ratio, Max Drawdown, Regime Probability
 
+## 🎓 Personal Reflections & Growth
+
+This project stems from my passion for **Quantitative Finance** and my coursework in **Financial Mathematics**. As a sophomore, I wanted to bridge the gap between classroom theory (like market efficiency and risk metrics) and real-world algorithmic trading.
+
+### My Journey:
+* **Academic Foundation:** I applied mathematical concepts learned in class to define market volatility regimes and risk-adjusted returns.
+* **Human-AI Collaboration:** While I utilized AI tools to assist with complex coding structures and debugging, the core strategy logic, feature selection, and the critical "Signal Smoothing" innovation were driven by my own analysis of market noise.
+* **The Learning Curve:** This project taught me that quantitative trading is not just about high returns, but more about managing biases and understanding the trade-offs between sensitivity and stability.
+
+### What's Next?
+I am committed to deepening my knowledge in **Stochastic Calculus** and **Machine Learning**. This is just the beginning of my journey to design more robust, sophisticated, and market-adaptive financial systems.
 ---
 *Disclaimer: For academic purposes only. Not financial advice.*
