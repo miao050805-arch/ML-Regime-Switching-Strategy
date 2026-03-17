@@ -11,16 +11,16 @@ I focused on moving beyond theoretical backtesting to address real-world trading
 ## 📊 Backtest Performance
 | Metric | Result |
 | :--- | :--- |
-| **Sharpe Ratio** | **1.04** |
-| **Max Drawdown** | **-9.70%** |
-| **Out-of-Sample Return** | **16.48%** |
+| **Sharpe Ratio** | **1.102** |
+| **Max Drawdown** | **-9.697%** |
+| **Out-of-Sample Return** | **17.576%** |
 
 ### Performance Visualization
 ![Strategy Results](Results.png)
 
 ## 🛠️ Tech Stack
 * **Language**: Python
-* **Library**: Scikit-Learn (Random Forest), Pandas, Yfinance
+* **Library**: Scikit-Learn (Random Forest), Pandas, Numpy, Matplotlib，Yfinance
 * **Metrics**: Sharpe Ratio, Max Drawdown, Regime Probability
 
 ---
