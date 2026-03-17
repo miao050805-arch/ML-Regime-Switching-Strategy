@@ -32,7 +32,7 @@ I focused on moving beyond theoretical backtesting to address real-world trading
 * **Library**: Scikit-Learn (Random Forest), Pandas, Numpy, Matplotlib，Yfinance
 * **Metrics**: Sharpe Ratio, Max Drawdown, Regime Probability
 
-### What's Next?
+## What's Next?
 I am committed to deepening my knowledge in **Stochastic Calculus** and **Machine Learning**. This is just the beginning of my journey to design more robust, sophisticated, and market-adaptive financial systems.
 ---
 *Disclaimer: For academic purposes only. Not financial advice.*
