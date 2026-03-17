@@ -10,7 +10,7 @@ This project stems from my passion for **Quantitative Finance** and my coursewor
 * **The Learning Curve:** This project taught me that quantitative trading is not just about high returns, but more about managing biases and understanding the trade-offs between sensitivity and stability.
 
 ## 👨‍🎓 Project Abstract
-This project was developed during my **sophomore year** to explore how Machine Learning can identify market risk regimes. It dynamically allocates assets between **QQQ (Nasdaq 100)** and **TLT (Treasury Bonds)** based on volatility predictions from a Random Forest model.
+This project dynamically allocates assets between **QQQ (Nasdaq 100)** and **TLT (Treasury Bonds)** based on volatility predictions from a Random Forest model.
 
 ## 💡 Key Improvements (Innovation)
 I focused on moving beyond theoretical backtesting to address real-world trading challenges:
